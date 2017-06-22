@@ -1,4 +1,5 @@
 mysql/*
 wordpress/*
-!mysql
-!wordpress
+nginx/log/*
+!mysql/.gitkeep
+!wordpress/.gitkeep
