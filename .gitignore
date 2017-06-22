@@ -1,0 +1,4 @@
+mysql/*
+wordpress/*
+!mysql
+!wordpress
